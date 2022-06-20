@@ -1,7 +1,7 @@
 {
   "name": "airdrop",
   "version": "1.0.0",
-  "description": "transferring any tokens to multiple users (i used for local testing)",
+  "description": "transferring any tokens to multiple users (i used for local testing) and using custom error to save gas instead of require statement",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
